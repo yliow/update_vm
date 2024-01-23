@@ -6,3 +6,4 @@ run:
 
 	-mkdir latex
 	cp -r /usr/share/texlive/texmf-local/tex/latex/yliow latex
+	cp -r /home/student/yliow/Documents/work/projects/latextool/data latex
